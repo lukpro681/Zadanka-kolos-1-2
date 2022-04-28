@@ -1,0 +1,4 @@
+﻿  funkcje.cpp
+C:\Users\lukus\source\repos\Kolos ćwiczenia\Kolos ćwiczenia\funkcje.cpp(22,3): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\lukus\source\repos\Kolos ćwiczenia\Kolos ćwiczenia\funkcje.cpp(41,3): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Kolos ćwiczenia.vcxproj -> C:\Users\lukus\source\repos\Kolos ćwiczenia\x64\Debug\Kolos ćwiczenia.exe
